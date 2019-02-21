@@ -1,9 +1,6 @@
 # Simple Blog build with Laravel 5.4
 This is app used custom Model Factory & Pagination also used Bootstrap.
 
-## Demo
-[larablog.hol.es](http://larablog.hol.es)
-
 ## How to install
 - Clone this repo `git clone https://github.com/ryanrahman26/laravel5.4-blog.git`
 - Rename the folder to anything. ex: laravel-blog, and cd to the folder
